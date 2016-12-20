@@ -1,2 +1,3 @@
 # intel-edison-ardunio-sensors
-Seeed/Gravity sensor examples for Intel Edison w/arduino breakout
+
+Personal versions of sensor examples - used to learn/interact with Seeed and Gravity sensors using an Intel Edison w/arduino breakout.
