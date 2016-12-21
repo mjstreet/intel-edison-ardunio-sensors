@@ -6,7 +6,7 @@
  * Resistance/B-Values calcaulations proivded in seeed.cc documentation
  * http://wiki.seeed.cc/Grove-Temperature_Sensor_V1.2/
  * 
- * Calculation and conversion ctions separated from loop() to test use of functions
+ * Calculation and conversions separated from loop() to test use of functions
  */
 
 #include <math.h>
